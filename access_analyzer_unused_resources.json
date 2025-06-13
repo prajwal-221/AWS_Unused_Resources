@@ -1,0 +1,318 @@
+{
+  "iam_roles": {
+    "iam_roles": [
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/service-role/ProducerForKinesis-role-e2yqyo58",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:06:15+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/EC2SSMRole",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:06:15+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/Task-Role-for-ECS",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:06:15+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/eksClusterRole",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:06:15+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/service-role/Lambda-SQS",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:06:16+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/LambdaRDSRole",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:06:16+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/service-role/LambdaForS3-role-yeqcdvn3",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:06:16+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/service-role/LambdaForRestApi-role-xm1s8ciy",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:06:16+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/AmazonSSMRoleForInstancesQuickSetup",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:06:16+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/eksNodeRole",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:06:31+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/service-role/LambdaForS3-role-krmoajhf",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:06:31+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/EC2Access",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:06:32+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/ecsInstanceRole",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:06:32+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/service-role/Amazon_EventBridge_Invoke_Lambda_1560708163",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:06:33+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/rds-monitoring-role",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:06:33+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/LambdaS3andCloudWatchAccess",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:06:33+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/service-role/Amazon_EventBridge_Scheduler_LAMBDA_4f4dbfe4b4",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:07:05+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/service-role/LambdaForS3Update-role-h1k3lpay",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:07:05+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/admin",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:07:05+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/service-role/Amazon_EventBridge_Invoke_Lambda_1183729763",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:07:05+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/MyEC2Role",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:07:05+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/AWS-QuickSetup-StackSet-Local-ExecutionRole",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:07:06+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/ecsfullaccess",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:07:06+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/AWS_Inspector",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:07:06+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/S3ReadOnlyAccessForAws",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:07:07+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/service-role/AWSBackupDefaultServiceRole",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:07:40+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/CrossAccountAccessForEarth",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:07:40+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/S3ReadOnlyAccessForEC2Aws",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:07:40+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/service-role/AWSSystemsManagerDefaultEC2InstanceManagementRole",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:07:40+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/service-role/LambdaFunctionForS3-role-tx45iib7",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:07:40+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/AWS-QuickSetup-StackSet-Local-AdministrationRole",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:07:41+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/ecsTaskExecutionRole",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:07:41+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/S3FullAccessRole",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:07:41+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/service-role/AWSCodePipelineServiceRole-us-east-1-microservices-pipeline",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:07:41+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/service-role/codebuildMicroservicesRole",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:07:41+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      },
+      {
+        "resourceArn": "arn:aws:iam::273491477087:role/Ec2S3FullAccess",
+        "status": "ACTIVE",
+        "updatedAt": "2025-06-13T13:07:41+00:00",
+        "region": "ap-southeast-2",
+        "analyzerArn": "unknown"
+      }
+    ],
+    "summary": {
+      "total_iam_roles": 36
+    }
+  },
+  "security_groups": [
+    {
+      "GroupId": "sg-053bb874c393604c7",
+      "GroupName": "Test_Security_Group",
+      "VpcId": "vpc-0b785924dff22faff",
+      "Region": "ap-southeast-2"
+    },
+    {
+      "GroupId": "sg-04f5706b5dacc5ea0",
+      "GroupName": "launch-wizard-1",
+      "VpcId": "vpc-0767d8755e9c6e2ac",
+      "Region": "us-east-1"
+    }
+  ],
+  "iam_policies": [
+    {
+      "PolicyName": "S3Bucket",
+      "Arn": "arn:aws:iam::273491477087:policy/S3Bucket",
+      "CreateDate": "2023-12-05T14:08:49+00:00",
+      "Description": "No description available"
+    },
+    {
+      "PolicyName": "CloudwatchDashboard",
+      "Arn": "arn:aws:iam::273491477087:policy/CloudwatchDashboard",
+      "CreateDate": "2023-12-05T14:13:33+00:00",
+      "Description": "No description available"
+    },
+    {
+      "PolicyName": "ReadOnlyAccessToS3Bucket",
+      "Arn": "arn:aws:iam::273491477087:policy/ReadOnlyAccessToS3Bucket",
+      "CreateDate": "2025-05-10T11:47:33+00:00",
+      "Description": "No description available"
+    },
+    {
+      "PolicyName": "s3crr_for_s3-assignmentforaws_118c8e",
+      "Arn": "arn:aws:iam::273491477087:policy/service-role/s3crr_for_s3-assignmentforaws_118c8e",
+      "CreateDate": "2025-04-22T07:20:04+00:00",
+      "Description": "No description available"
+    },
+    {
+      "PolicyName": "Billing",
+      "Arn": "arn:aws:iam::273491477087:policy/Billing",
+      "CreateDate": "2023-12-05T14:10:22+00:00",
+      "Description": "No description available"
+    },
+    {
+      "PolicyName": "CreateUserGroupPolicy",
+      "Arn": "arn:aws:iam::273491477087:policy/CreateUserGroupPolicy",
+      "CreateDate": "2023-12-05T14:02:10+00:00",
+      "Description": "No description available"
+    }
+  ],
+  "summary": {
+    "total_iam_roles": 36,
+    "total_security_groups": 2,
+    "total_iam_policies": 6
+  }
+}
