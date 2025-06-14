@@ -45,6 +45,3 @@ AWS_PROFILE=your_profile_name python3 main.py
 - Ensure you have Access Analyzer enabled in at least one region for IAM role analysis.
 - The script requires permissions to list IAM roles, policies, security groups, and Access Analyzer findings.
 - For large AWS accounts, the scan may take several minutes.
-
-## License
-This project is provided as-is for internal use. Please review and adapt for your organization's security and compliance requirements.
